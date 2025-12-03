@@ -309,9 +309,9 @@ body {
     box-shadow: var(--shadow-glow);
 }
 
-.profile-icon svg {
-    width: 80px;
-    height: 80px;
+.profile-icon img {
+    width: 155px;
+    border-radius: 5rem;
 }
 
 .card-stats {
