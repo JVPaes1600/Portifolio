@@ -78,8 +78,8 @@ Para personalizar as informações:
 ## 📧 Contato
 
 - **Localização**: Penha, Santa Catarina
-- **Email**: joaovictor@email.com
-- **LinkedIn**: linkedin.com/in/joaovictor
+- **Email**: [joaovictorvp1313@gmail.com](mailto:joaovictorvp1313@gmail.com)
+- **LinkedIn**: [linkedin.com/in/joaovictor](https://www.linkedin.com/in/joaovictorvp/)
 
 ---
 
